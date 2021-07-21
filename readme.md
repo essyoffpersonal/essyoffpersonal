@@ -9,12 +9,12 @@
 
 ## What am I doing?
 ### What have I done?
-  * Nothing on a grand scale. _Yet._
+  - Nothing on a grand scale. _Yet._
 ### What am I doing _now_?
-  * As of this exact time, updating my README.md page.
-  * More in general, I'm saving up money from my job at Walmart to build a computer from scratch. It's going to be very run of the mill, but I don't need much more than that.
+  - As of this exact time, updating my README.md page.
+  - More in general, I'm saving up money from my job at Walmart to build a computer from scratch. It's going to be very run of the mill, but I don't need much more than that.
 ### What will I be doing?
-  * No clue!
+  - No clue!
 
 ## What am I learning?
 ### What do I know?
@@ -29,17 +29,3 @@
 ### What will I learn?
   - Concerning website development:
     - I will gain knowledge in JavaScript. (Informal; I will be learning through W3School's course on the topic.)
-<!--
-**essyoffpersonal/essyoffpersonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
