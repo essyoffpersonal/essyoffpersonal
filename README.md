@@ -1,4 +1,6 @@
-### Hi there 👋
+# Essy
+## Who am I?
+	I'm a beginner programmer. A _very_ beginner programmer. As of writing, I'm working a job at Walmart, and intend to go to school for IT. I have a lot of knowledge with computers, none of it formal.
 
 <!--
 **essyoffpersonal/essyoffpersonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
